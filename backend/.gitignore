@@ -1,0 +1,26 @@
+## Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+
+
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+
+
+# dotenv environment variable files
+.env
+.vscode
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
